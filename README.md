@@ -119,15 +119,30 @@ Sujets travaillés :
 
 ### Active Directory Lab
 
-Laboratoire Active Directory personnel permettant de travailler sur :
+Conception et déploiement d'un laboratoire Active Directory personnel dans un environnement virtualisé.
 
-* BloodHound
+Infrastructure mise en place :
+
+* Contrôleur de domaine Windows Server
+* Plusieurs postes clients Windows
+* Création et administration d'utilisateurs
+* Gestion de groupes de sécurité
+* Organisation des unités d'organisation (OU)
+* Configuration et application de stratégies de groupe (GPO)
+* Gestion DNS et services Active Directory
+
+Audit et analyse de sécurité :
+
+* Énumération Active Directory
 * LDAP
 * SMB
 * Kerberos
-* Énumération Active Directory
-* Attaques d'authentification
-* Analyse de chemins d'attaque
+* BloodHound
+* Collecte et analyse des relations de confiance
+* Identification de chemins d'attaque
+* Analyse des privilèges et délégations
+* Recherche de mauvaises configurations et risques d'escalade de privilèges
+
 
 ### Cyber Labs
 
@@ -173,7 +188,7 @@ Je souhaite évoluer vers un poste de Pentester ou d'Application Security Engine
 
 ## Contact
 
-[anass.moumen@efrei.net](mailto:anass.moumen@efrei.net)
+e-mail: [anass.moumen@efrei.net](mailto:anass.moumen@efrei.net)
 
 LinkedIn : https://linkedin.com/in/anass-moumen-11114831b
 
