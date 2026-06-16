@@ -4,7 +4,7 @@
 
 ## À propos
 
-Je développe mes compétences en cybersécurité à travers des plateformes d'entraînement reconnues, des projets personnels et la recherche de vulnérabilités dans des environnements réalistes.
+Je développe mes compétences en cybersécurité à travers des plateformes d'entraînement reconnues, des projets personnels et l'étude pratique des vulnérabilités applicatives.
 
 Mes domaines d'intérêt principaux sont :
 
@@ -25,7 +25,13 @@ Mes domaines d'intérêt principaux sont :
 * Tests d'authentification et de contrôle d'accès
 * Recherche de vulnérabilités web
 * Analyse de logique métier
-* Exploitation de failles courantes (XSS, CSRF, SSRF, IDOR, Information Disclosure)
+* Exploitation de vulnérabilités courantes :
+
+  * XSS
+  * CSRF
+  * SSRF
+  * IDOR
+  * Information Disclosure
 
 ### Outils
 
@@ -41,9 +47,9 @@ Mes domaines d'intérêt principaux sont :
 
 * Python
 * C
-* SQL
-* HTML / CSS / JS
 * Java
+* SQL
+* HTML / CSS / JavaScript
 * Bash
 
 ---
@@ -52,23 +58,37 @@ Mes domaines d'intérêt principaux sont :
 
 ### Hack The Box
 
-Apprentissage pratique des fondamentaux de la cybersécurité :
+Plateforme d'entraînement offensive permettant l'acquisition de compétences pratiques en cybersécurité.
 
-* Réseaux
-* Systèmes Linux et Windows
-* Programmation
-* Méthodologies d'attaque
+**Statistiques actuelles :**
 
-Travail sur :
+* Niveau 50
+* Rang : Professional
+* 15 machines résolues
+* 17 challenges complétés
+* Streak d'activité : 6 semaines
 
-* L'énumération
-* L'exploitation de vulnérabilités
-* L'élévation de privilèges
-* L'analyse de services et protocoles
+Compétences travaillées :
+
+* Énumération Linux et Windows
+* Analyse de services réseau
+* Exploitation de vulnérabilités
+* Élévation de privilèges
+* Méthodologie de pentest
+
+---
 
 ### Root-Me
 
-Résolution de challenges couvrant différents domaines :
+Plateforme de challenges orientée sécurité offensive.
+
+**Statistiques actuelles :**
+
+* 73 challenges validés
+* 1175 points
+* Top 13 500 mondial
+
+Catégories travaillées :
 
 * Web Client
 * Web Serveur
@@ -77,9 +97,13 @@ Résolution de challenges couvrant différents domaines :
 * Cryptographie
 * Programmation
 
+---
+
 ### PortSwigger Web Security Academy
 
-Étude approfondie et mise en pratique des vulnérabilités web modernes :
+Étude approfondie des vulnérabilités web modernes à travers des laboratoires pratiques.
+
+Sujets travaillés :
 
 * Broken Access Control
 * Authentication Vulnerabilities
@@ -91,24 +115,59 @@ Résolution de challenges couvrant différents domaines :
 
 ---
 
-## Projets et travaux
+## Projets
 
-Ce dépôt regroupe :
+### Active Directory Lab
 
-* Projets personnels
-* Scripts d'automatisation
-* Notes techniques
-* Write-ups sélectionnés
-* Exercices de sécurité offensive
-* Travaux liés à la cybersécurité
+Laboratoire Active Directory personnel permettant de travailler sur :
 
-L'objectif est de documenter ma progression, partager mes apprentissages et construire un portfolio technique orienté cybersécurité.
+* BloodHound
+* LDAP
+* SMB
+* Kerberos
+* Énumération Active Directory
+* Attaques d'authentification
+* Analyse de chemins d'attaque
+
+### Cyber Labs
+
+Collection de notes techniques, scripts et write-ups sélectionnés réalisés dans le cadre de l'apprentissage de la cybersécurité offensive.
+
+### EFREI Website
+
+Site web statique développé en HTML, CSS et JavaScript puis déployé avec GitHub Pages.
+
+### HosPilot *(en cours de développement)*
+
+Application de gestion hospitalière développée dans le cadre d'un projet logiciel.
+
+---
+
+## Profils de cybersécurité
+
+### GitHub
+
+* Pseudo : **r4s4l3oul**
+* Profil : https://github.com/r4s4l3oul
+
+### Hack The Box
+
+* Pseudo : **r4s4l3oul**
+* Niveau : **50 (Professional)**
+* Profil : https://profile.hackthebox.com/profile/019c3b48-1e37-70bf-acfe-caef6e75de19
+
+### Root-Me
+
+* Pseudo : **r4$_4l_3oul**
+* Score : **1175 points**
+* 73 challenges validés
+* Profil : *[(l'URL publique du profil)](https://www.root-me.org/r4-_4l_3oul)*
 
 ---
 
 ## Objectif professionnel
 
-À moyen terme, je souhaite évoluer vers un poste de Pentester ou d'Application Security Engineer afin de contribuer à l'identification et à la sécurisation des vulnérabilités applicatives.
+Je souhaite évoluer vers un poste de Pentester ou d'Application Security Engineer afin de contribuer à l'identification, l'exploitation contrôlée et la sécurisation des vulnérabilités applicatives.
 
 ---
 
@@ -116,4 +175,6 @@ L'objectif est de documenter ma progression, partager mes apprentissages et cons
 
 [anass.moumen@efrei.net](mailto:anass.moumen@efrei.net)
 
-LinkedIn : 
+LinkedIn : https://linkedin.com/in/anass-moumen-11114831b
+
+GitHub : https://github.com/r4s4l3oul
