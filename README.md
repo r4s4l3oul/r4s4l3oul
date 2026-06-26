@@ -10,9 +10,8 @@ Mes domaines d'intérêt principaux sont :
 
 * Pentest Web
 * Bug Bounty
-* Sécurité des applications
 * Cryptographie et cryptanalyse
-* Forensic
+* reverse engineering
 * Programmation et automatisation
 
 ---
@@ -62,11 +61,11 @@ Plateforme d'entraînement offensive permettant l'acquisition de compétences pr
 
 **Statistiques actuelles :**
 
-* Niveau 50
+* Niveau 51
 * Rang : Professional
-* 15 machines résolues
-* 17 challenges complétés
-* Streak d'activité : 6 semaines
+* 16 machines résolues
+* 18 challenges complétés
+* Streak d'activité : 8 semaines
 
 Compétences travaillées :
 
@@ -84,9 +83,10 @@ Plateforme de challenges orientée sécurité offensive.
 
 **Statistiques actuelles :**
 
-* 73 challenges validés
-* 1175 points
-* Top 13 500 mondial
+* 75 challenges validés
+* 2 Compromissions
+* 1230 points
+* Top 12573 mondial
 
 Catégories travaillées :
 
@@ -168,14 +168,14 @@ Application de gestion hospitalière développée dans le cadre d'un projet logi
 ### Hack The Box
 
 * Pseudo : **r4s4l3oul**
-* Niveau : **50 (Professional)**
+* Niveau : **51 (Professional)**
 * Profil : https://profile.hackthebox.com/profile/019c3b48-1e37-70bf-acfe-caef6e75de19
 
 ### Root-Me
 
 * Pseudo : **r4$_4l_3oul**
-* Score : **1175 points**
-* 73 challenges validés
+* Score : **1230 points**
+* 75 challenges validés
 * Profil : *[(l'URL publique du profil)](https://www.root-me.org/r4-_4l_3oul)*
 
 ---
