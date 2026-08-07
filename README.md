@@ -288,9 +288,3 @@ Je souhaite évoluer vers un poste de Pentester ou d'Application Security Engine
 Je m'intéresse particulièrement à la sécurité web, à l'audit Active Directory, à l'automatisation d'outils techniques et à la construction de laboratoires réalistes pour progresser en cybersécurité offensive.
 
 ---
-
-## Contact
-
-**E-mail :** [anass.moumen@efrei.net](mailto:anass.moumen@efrei.net)  
-**LinkedIn :** https://linkedin.com/in/anass-moumen-11114831b  
-**GitHub :** https://github.com/r4s4l3oul
